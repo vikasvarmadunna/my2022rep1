@@ -10,7 +10,7 @@ cat /etc/shells  for what type of shells the linux is supporting...
 echo $shell  , it tells the  default shell
 
 
-first video 30 minutes over
+first video 30 minutes over..
 
 
 
