@@ -1,0 +1,16 @@
+alias c=clear        press enter
+
+bash shell has many features 
+
+in unix operating system the default shell was shell
+
+cat /etc/shells  for what type of shells the linux is supporting...
+
+
+echo $shell  , it tells the  default shell
+
+
+first video 30 minutes over
+
+
+
